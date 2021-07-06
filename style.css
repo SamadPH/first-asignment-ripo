@@ -47,12 +47,13 @@ section{
     color: coral;
 }
 .food-item{
+    width: 30%;
+    margin-left: 4%;
+    margin-right: 4%;
+    border-radius: 15px;
     padding: 20px 80px 20px;
-    box-shadow: 10px 40px 10px greenyellow;
-}
+    box-shadow: 10px 10px 45px green;
 
-.page-info{
-    padding: 15px 100px 15px;
 }
 
 .bottom{
@@ -61,4 +62,15 @@ section{
 }
 .bottom-background{
     background-color: black;
+}
+.page{
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+.page-info{
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px 50px 20px;
 }
