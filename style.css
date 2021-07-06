@@ -1,0 +1,49 @@
+body{
+    font-family: 'Fira Sans', sans-serif;
+}
+.link-button{
+    background-image: linear-gradient(green, chocolate);
+    text-decoration: none;
+    padding: 10px 25px;
+    color: white;
+    font-weight: 900;
+    border-radius: 8px;
+
+}
+
+.flexible-container{
+    display: flex;
+}
+.midle-banner{
+    background-image: url(images/backhround1.png);
+    padding-left: 5px;
+    width: 100%;
+}
+.orange{
+    color: orange;
+}
+.skip-color{
+    color: blue;
+}
+.half-width{ 
+    width: 80%;
+    padding: 5%;
+
+}
+.half-width img{
+    width: 70%;
+}
+.recipies{
+    text-align: center;
+}
+.section{
+    display: flex;
+}
+.specific-recipie img{
+    height: 100px;
+    width: auto;
+}
+
+.footer{
+    text-align: center;
+}
