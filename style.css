@@ -36,14 +36,29 @@ body{
 .recipies{
     text-align: center;
 }
-.section{
+section{
     display: flex;
 }
 .specific-recipie img{
-    height: 100px;
+    height: 220px;
     width: auto;
 }
+.food{
+    color: coral;
+}
+.food-item{
+    padding: 20px 80px 20px;
+    box-shadow: 10px 40px 10px greenyellow;
+}
 
-.footer{
+.page-info{
+    padding: 15px 100px 15px;
+}
+
+.bottom{
+    color: yellow;
     text-align: center;
+}
+.bottom-background{
+    background-color: black;
 }
